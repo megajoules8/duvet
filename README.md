@@ -7,7 +7,7 @@ width="72" alt="image" />](https://beeware.org/duvet)
 [![PyPI - Version](https://img.shields.io/pypi/v/duvet.svg)](https://pypi.python.org/pypi/duvet)
 [![PyPI - Status](https://img.shields.io/pypi/status/duvet.svg)](https://pypi.python.org/pypi/duvet)
 [![License](https://img.shields.io/pypi/l/duvet.svg)](https://github.com/pybee/duvet/blob/main/LICENSE)
-[![Build Status](https://github.com/beeware/briefcase/workflows/CI/badge.svg?branch=main)](https://github.com/beeware/briefcase/actions)
+[![Build Status](https://github.com/beeware/duvet/workflows/CI/badge.svg?branch=main)](https://github.com/beeware/duvet/actions)
 [![Discord server](https://img.shields.io/discord/836455665257021440?label=Discord%20Chat&logo=discord&style=plastic)](https://beeware.org/bee/chat/)
 
 
